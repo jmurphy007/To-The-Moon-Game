@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1079440336601262971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1079440336601262969}
+  - component: {fileID: 1079440336601262968}
+  m_Layer: 0
+  m_Name: CloudGen2Falling
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1079440336601262969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1079440336601262971}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.35574, y: 89, z: 12.626}
+  m_LocalScale: {x: 10.415936, y: 10.415936, z: 10.415936}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1079440336601262968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1079440336601262971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab29bae5ca4996e45b95c3f7374c94fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabs:
+  - {fileID: 7518447630119575360, guid: a819b5f265a91fa40ae48979e470c6e7, type: 3}
+  - {fileID: 4391601011494004781, guid: 035871753fe43624bb6a152f6d5506a7, type: 3}
+  - {fileID: 8208443791339216207, guid: 1a1beed3d3de2c241ba0f884ff7e23d0, type: 3}
+  - {fileID: 4437742398424089453, guid: 50707435b5bd3374eb3da769b237b9c8, type: 3}
+  - {fileID: 4697529283643572315, guid: a7584fe996c48ac4badaa1ca49a344a8, type: 3}
+  - {fileID: 3860051497749848553, guid: 639858ce0917824439c9bbcc2eaf24c5, type: 3}
+  - {fileID: 8481505926150849954, guid: eb4b735b1f00ed44eae3b52b73807de9, type: 3}
+  - {fileID: 5521893333305878963, guid: b56ab4ebac0c0c441b4b7b9b25cdd244, type: 3}
+  - {fileID: 2957449471088774994, guid: 9423296db61f9434d9febbe3b5b030ce, type: 3}
+  - {fileID: 7617837912033332607, guid: 880d52b95036a1849939e9fc12d765de, type: 3}
+  - {fileID: 8819077006001418159, guid: ded40e62312768d40a95558448145517, type: 3}
+  - {fileID: 6119607814336043267, guid: 8f06062f1f56e9c4c872a1741a0f8770, type: 3}
+  Height: 250
+  Range: 250
+  Density: 1

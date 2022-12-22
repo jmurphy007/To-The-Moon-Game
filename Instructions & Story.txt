@@ -1,0 +1,17 @@
+To The Moon
+
+Story:
+ 
+	In the future, there is too much space debris in our atmosphere that it prevents space travel. 
+	NASA has to send a robot up to the moon to clear the debris. 
+	It will use a gizmo in its legs/feet to hop from cloud to cloud into the sky.
+
+Instructions:
+
+	1. Use WASD to navigate through the scene.
+	2. Use the spacebar to jump into the sky.
+	3. White clouds are safe to land on
+	4. Storm clouds are dangerous, landing on them will mean taking damage.
+	5. After a certain height, there will be some clouds that you can fall through.
+	6. To return the menu, hit Escape or run out of health.
+	7. Try to get as high in the sky as possible!
